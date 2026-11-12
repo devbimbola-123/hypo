@@ -1,0 +1,39 @@
+
+.borderline
+{
+
+    border: 5px solid rgb(1, 1, 159);;
+}
+
+.hypo-logo img{
+    width:15%;
+    position: absolute;
+    z-index: 100;
+    top:8px;
+}
+
+.nav-link{
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-weight: 600;
+}
+
+.nav-item{
+    gap:20px;
+}
+
+.display-5{
+    color:rgb(70, 70, 191)
+}
+
+.herotest{
+    width: 80%;
+    font-size: 19px;;
+    padding: 20px;;
+    font-family: 'Sofia Sans Condensed', sans-serif;
+                                                
+}
+
+.tys{
+    position: absolute;
+    z-index: 20px;
+}
